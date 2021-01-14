@@ -55,7 +55,7 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aarshinkov&show_icons=true&hide_border=true" />
 
 [website]: http://aarshinkovphoto.com/
-[course]: https://www.udemy.com/course/3355484/
+[course]: https://www.udemy.com/course/webapp-spring-boot-postgresql
 [twitter]: https://twitter.com/a_arshinkov
 [youtube]: https://youtube.com/UCuUq2-fkJIGXDVYFfYiv4tw
 [instagram]: https://instagram.com/aarshinkov97
