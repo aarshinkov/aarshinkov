@@ -1,7 +1,5 @@
 ### Hi there, I'm Atanas Arshinkov 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/a_arshinkov?color=%235bc27b&label=Follow%20%40a_arshinkov&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fa_arshinkov&screen_name=a_arshinkov)
-
 ## I am a software developer and Udemy course instructor!
 
 - **2+ years** as a software developer!
