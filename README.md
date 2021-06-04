@@ -4,7 +4,7 @@
 
 - **3+ years** as a software developer!
 - 🔭 Udemy course: [Build web application with spring boot, Thymleaf, PostgreSQL][course]!
-- ⚡ Fun fact: I love to  make pictures and playing piano and drums
+- ⚡ Fun fact: I love to  make pictures and play piano and drums
 
 
 ### Connect with me:
