@@ -3,7 +3,7 @@
 ## I am a software developer and Udemy course instructor!
 
 - **3+ years** as a software developer!
-- 🔭 Udemy course: [Build web application with spring boot, Thymleaf, PostgreSQL][course]!
+- 🔭 Udemy course: [Build web application with spring boot, Thymeleaf, PostgreSQL][course]!
 - ⚡ Fun fact: I love to  make pictures and play piano and drums
 
 
