@@ -1,6 +1,6 @@
 ### Hi there, I'm Atanas Arshinkov 👋
 
-## I am a software developer and Udemy course instructor!
+## I am a software developer and a Udemy course instructor!
 
 - **3+ years** as a software developer!
 - 🔭 Udemy course: [Build web application with spring boot, Thymeleaf, PostgreSQL][course]!
