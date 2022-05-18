@@ -2,7 +2,7 @@
 
 ## I am a software developer and a Udemy course instructor!
 
-- **3+ years** as a software developer!
+- **4+ years** as a software developer!
 - Working on clients' projects.
 - 🔭 Udemy course: [Build web application with spring boot, Thymeleaf, PostgreSQL][course]!
 - ⚡ Fun fact: I love to  make pictures and play piano and drums
