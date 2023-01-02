@@ -56,7 +56,7 @@
 [website]: http://aarshinkovphoto.com/
 [course]: https://www.udemy.com/course/webapp-spring-boot-postgresql
 [twitter]: https://twitter.com/a_arshinkov
-[youtube]: https://youtube.com/channel/UCuUq2-fkJIGXDVYFfYiv4tw
+[youtube]: https://www.youtube.com/@aarshinkov
 [instagram]: https://instagram.com/aarshinkov97
 [linkedin]: https://linkedin.com/in/atanas-arshinkov
 [javalink]: https://www.java.com/en/
