@@ -1,6 +1,6 @@
 ### Hi there, I'm Atanas Arshinkov 👋
 
-## I am a software developer and a Udemy course instructor!
+## I am a software developer!
 
 - **6+ years** as a software developer!
 - Working on clients' projects.
