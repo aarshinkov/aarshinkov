@@ -3,6 +3,7 @@
 ## I am a software developer!
 
 - **6+ years** as a software developer!
+- Working mainly in the Bank industry as a Software developer. Mainly bank software.
 - Working on clients' projects.
 
 
